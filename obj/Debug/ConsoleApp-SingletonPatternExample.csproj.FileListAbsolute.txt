@@ -1,0 +1,7 @@
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\bin\Debug\ConsoleApp-SingletonPatternExample.exe.config
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\bin\Debug\ConsoleApp-SingletonPatternExample.exe
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\bin\Debug\ConsoleApp-SingletonPatternExample.pdb
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\obj\Debug\ConsoleApp-SingletonPatternExample.csprojAssemblyReference.cache
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\obj\Debug\ConsoleApp-SingletonPatternExample.csproj.CoreCompileInputs.cache
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\obj\Debug\ConsoleApp-SingletonPatternExample.exe
+D:\Shaks\Practice Projects\ConsoleApp-SingletonPatternExample\obj\Debug\ConsoleApp-SingletonPatternExample.pdb
