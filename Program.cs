@@ -13,6 +13,7 @@ namespace ConsoleApp_SingletonPatternExample1
             Calculator calc = new Calculator();
             calc.Divide(5, 0);
             Console.ReadKey();
+            // 
         }
     }
 }
